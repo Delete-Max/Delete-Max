@@ -19,11 +19,11 @@ br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
 br.addheaders = [('User-Agent', 'Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.5112.97 Mobile Safari/537.36')]
 
 
-def keluar():
+def keluar(b):
 
 
 
-def acak(b):
+def (b):
     w = 'ahtdzjc'
     d = ''
     for i in x:
